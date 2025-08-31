@@ -47,9 +47,6 @@ git push origin main
 
 ### 6️⃣ Submit Your Repository
 Share your forked repository link with the organizers by **September 6, 2025**!
-- Email: [organizer-email@example.com]
-- Discord: [Discord link/username]
-- Or submit through [submission form link]
 
 ---
 
@@ -90,8 +87,7 @@ Share your forked repository link with the organizers by **September 6, 2025**!
 
 ### Features
 - [Feature 1 - e.g., "Colorful geometric patterns"]
-- [Feature 2 - e.g., "Animated flower petals"]
-- [Feature 3 - e.g., "Interactive elements"]
+- [Feature 2 - e.g., "Interactive elements"]
 
 ## 🚀 How to Run
 
@@ -116,27 +112,8 @@ open index.html
 Code-a-Pookalam-2025/
 ├── README.md (this file)
 ├── pookalam.py (or your main file)
-├── output/
-│   ├── pookalam-preview.png
-│   └── other-images.png
-├── assets/ (optional)
-│   └── any additional files
 └── requirements.txt (if applicable)
 ```
-
-## 🎯 Code Explanation
-
-### Algorithm/Approach
-[Briefly explain your approach - what shapes, patterns, colors you used]
-
-### Challenges Faced
-[Optional - mention any interesting problems you solved]
-
-### What I Learned
-[Optional - share your learning experience]
-
-## 📸 Gallery
-[Add multiple screenshots or GIFs if you have animations]
 
 ## 🎊 Happy Onam! 🎊
 *Submitted for Code-a-Pookalam 2025 by TinkerHub RIT*
@@ -157,10 +134,7 @@ Code-a-Pookalam-2025/
 ## 📚 Resources & Inspiration
 
 ### Programming Resources
-- **Python Graphics**: Turtle, Matplotlib, Pygame, PIL
-- **Web Technologies**: Canvas API, CSS Animations, SVG
-- **Creative Coding**: Processing, p5.js, openFrameworks
-- **Game Engines**: Unity (C#), Godot (GDScript)
+- **Python Graphics**: Turtle, Matplotlib, Pygame, PIL etc
 
 ### Pookalam Design Ideas
 - Traditional geometric patterns
@@ -174,13 +148,12 @@ Code-a-Pookalam-2025/
 ## 🏢 Organizer Information
 
 **Event Organized By:** TinkerHub RIT  
-**Contact:** [Add contact information]  
+**Contact:** +91 8590483660  
 **Event Date:** September 2025  
 **Deadline:** September 6, 2025  
-**Submission:** Email your repository link to [email]
 
 ### About TinkerHub RIT
-TinkerHub RIT is a community of makers, learners, and innovators at Rajagiri Institute of Technology. We organize various tech events, workshops, and coding challenges to foster creativity and learning in technology.
+TinkerHub RIT is a community of makers, learners, and innovators at Rajiv Gandhi Institute of Technology. We organize various tech events, workshops, and coding challenges to foster creativity and learning in technology.
 
 ---
 
