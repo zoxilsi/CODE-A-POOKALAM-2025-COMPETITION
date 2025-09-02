@@ -22,8 +22,7 @@ Click the **Fork** button at the top right of this repository to create your own
 
 ### 2️⃣ Clone Your Fork
 ```bash
-git clone https://github.com/YOUR-USERNAME/Code-a-Pookalam-2025.git
-cd Code-a-Pookalam-2025
+git clone https://github.com/tinkerhub-rit-official/CODE-A-POOKALAM-2025-COMPETITION.git
 ```
 
 ### 3️⃣ Edit This README
